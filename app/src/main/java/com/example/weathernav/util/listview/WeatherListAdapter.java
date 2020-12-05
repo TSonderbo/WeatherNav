@@ -2,7 +2,6 @@ package com.example.weathernav.util.listview;
 
 import android.app.Activity;
 import android.content.Context;
-import android.media.Image;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -17,8 +16,6 @@ import androidx.annotation.Nullable;
 import com.bumptech.glide.Glide;
 import com.example.weathernav.R;
 import com.example.weathernav.objects.weatherdata.WeatherData;
-
-import java.util.List;
 
 public class WeatherListAdapter extends ArrayAdapter<WeatherData>
 {

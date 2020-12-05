@@ -1,11 +1,9 @@
 package com.example.weathernav.repositories;
 
-import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 
 import com.example.weathernav.network.weather.WeatherAPIClient;
 import com.example.weathernav.objects.weatherdata.WeatherData;
-import com.example.weathernav.objects.weatherdata.WeatherDataResponse;
 import com.google.android.gms.maps.model.Marker;
 
 import java.util.ArrayList;

@@ -1,11 +1,9 @@
 package com.example.weathernav.ui.weather;
 
-import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 import com.example.weathernav.objects.weatherdata.WeatherData;
-import com.example.weathernav.objects.weatherdata.WeatherDataResponse;
 import com.example.weathernav.repositories.WeatherRepository;
 
 import java.util.List;

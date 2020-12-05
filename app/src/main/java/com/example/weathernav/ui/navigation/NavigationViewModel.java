@@ -1,11 +1,9 @@
 package com.example.weathernav.ui.navigation;
 
 import android.app.Application;
-import android.text.Layout;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
-import androidx.lifecycle.ViewModel;
 
 import com.example.weathernav.objects.Route;
 import com.example.weathernav.repositories.RouteRepository;
@@ -14,7 +12,6 @@ import com.google.android.gms.maps.model.Marker;
 import com.google.maps.model.DirectionsLeg;
 import com.google.maps.model.DirectionsRoute;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class NavigationViewModel extends AndroidViewModel
