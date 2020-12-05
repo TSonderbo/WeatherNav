@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherNav</string>
+    <string name="menu_title_navigation">Navigation</string>
+    <string name="menu_title_weather">Weather</string>
+    <string name="menu_title_history">History</string>
+    <string name="history_from">From</string>
+    <string name="history_to">To</string>
+    <string name="history_units">KM</string>
+    <string name="button_navigate">Navigate</string>
+    <string name="button_save_route">Save Route</string>
+    <string name="button_clear">Clear</string>
+    <string name="alert_navigate">Do you want to navigate to current markers?</string>
+    <string name="alert_positive_button_text">Yes</string>
+    <string name="alert_negative_button_text">No</string>
+    <string name="alert_clear">Do you want to clear current markers?</string>
+    <string name="alert_save_route">Do you want to save current route?</string>
+    <string name="route_adapter_from">From: %1$s</string>
+    <string name="route_adapter_to">To: %1$s</string>
+    <string name="route_adapter_units">%1$.1f KM</string>
+    <string name="weather_adapter_temperature">"Temperature: %1$.1f C"</string>
+    <string name="weather_adapter_precipitation">"Precipitation: %1$.1f mm"</string>
+</resources>
